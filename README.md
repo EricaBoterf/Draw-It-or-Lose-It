@@ -34,6 +34,7 @@ cd Draw-It-or-Lose-It
 Build and run:
 
 mvn clean install
+
 mvn spring-boot:run
 
 Access the API at:
