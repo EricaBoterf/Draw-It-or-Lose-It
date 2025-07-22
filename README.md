@@ -44,7 +44,8 @@ http://localhost:8080/gameusers
 🔐 Authentication
 Username: admin
 
-Password: password123
+Password: password
+
 
 ✅ Future Enhancements
 WebSocket for real-time gameplay
