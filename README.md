@@ -61,7 +61,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/game-app.git
+git clone [https://github.com/yourusername/game-app.git](https://github.com/EricaBoterf/Draw-It-or-Lose-It.git)
 cd game-app
 Build the project
 
